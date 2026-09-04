@@ -1,6 +1,6 @@
 import {useState} from 'react';
 
-const API_KEY = import.meta.env.API_KEY;
+const API_KEY = import.meta.env.VITE_API_KEY;
 
 function Weather(){
 
